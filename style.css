@@ -1,4 +1,13 @@
-/* styles.css - Let's make our web development journey fun and stylish! */
+p {
+  color:yellowgreen;
+}
+
+.headerclass{
+  font-size: 100px;
+}
+
+
+/* styles.css - Let's make our web development journey fun and stylish!
 
 body {
   font-family: 'Arial', sans-serif;
@@ -40,4 +49,4 @@ footer {
   background-color: #333;
   color: #fff;
   padding: 10px 0;
-}
+} */
